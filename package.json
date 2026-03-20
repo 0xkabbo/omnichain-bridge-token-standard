@@ -1,0 +1,10 @@
+{
+  "name": "omnichain-bridge-token",
+  "version": "1.0.0",
+  "description": "LayerZero OFT implementation",
+  "dependencies": {
+    "@layerzerolabs/oft-evm": "^0.0.11",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
